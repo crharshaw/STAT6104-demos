@@ -1,2 +1,3 @@
 # ignore auxiliary jupyter files
 **/.ipynb_checkpoints/**
+lecture4-parallel-programming/distributed-tutorial.ipynb
